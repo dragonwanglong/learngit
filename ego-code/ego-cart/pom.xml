@@ -8,6 +8,7 @@
   <artifactId>ego-cart</artifactId>
   <packaging>war</packaging>
   <dependencies>
+	  <!--<dependencies>-->
 		<!-- ftpclient -->
 		<dependency>
 			<groupId>commons-net</groupId>
