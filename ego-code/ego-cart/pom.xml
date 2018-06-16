@@ -5,8 +5,10 @@
     <artifactId>ego-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <!--哈哈哈哈-->
   <artifactId>ego-cart</artifactId>
+  <packaging>war</packaging>
+  <packaging>war</packaging>
+  <packaging>war</packaging>
   <packaging>war</packaging>
   <dependencies>
 		<!-- ftpclient -->
