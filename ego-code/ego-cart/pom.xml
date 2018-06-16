@@ -7,7 +7,12 @@
   </parent>
   <artifactId>ego-cart</artifactId>
   <packaging>war</packaging>
+  master分支上修改了
+  dev brach
+  <packaging>war</packaging>
+  <packaging>war</packaging>
   <dependencies>
+	  <!--<dependencies>-->
 		<!-- ftpclient -->
 		<dependency>
 			<groupId>commons-net</groupId>
