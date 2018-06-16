@@ -8,6 +8,8 @@
   <artifactId>ego-cart</artifactId>
   <packaging>war</packaging>
   master分支上修改了
+  <packaging>war</packaging>
+  <packaging>war</packaging>
   <dependencies>
 	  <!--<dependencies>-->
 		<!-- ftpclient -->
